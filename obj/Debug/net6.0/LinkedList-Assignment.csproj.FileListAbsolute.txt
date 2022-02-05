@@ -1,0 +1,5 @@
+C:\Users\ELCOT\source\repos\LinkedList-Assignment\LinkedList-Assignment\obj\Debug\net6.0\LinkedList-Assignment.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\LinkedList-Assignment\LinkedList-Assignment\obj\Debug\net6.0\LinkedList-Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELCOT\source\repos\LinkedList-Assignment\LinkedList-Assignment\obj\Debug\net6.0\LinkedList-Assignment.AssemblyInfoInputs.cache
+C:\Users\ELCOT\source\repos\LinkedList-Assignment\LinkedList-Assignment\obj\Debug\net6.0\LinkedList-Assignment.AssemblyInfo.cs
+C:\Users\ELCOT\source\repos\LinkedList-Assignment\LinkedList-Assignment\obj\Debug\net6.0\LinkedList-Assignment.csproj.CoreCompileInputs.cache
